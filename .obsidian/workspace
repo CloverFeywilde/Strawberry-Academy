@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Academy Life.md",
+            "file": "Isekai Realm.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academy Life.md",
+                "file": "Isekai Realm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "038e6a05ac9ee048",
   "lastOpenFiles": [
-    "Academy Life.md",
     "Isekai Realm.md",
+    "Academy Life.md",
     "Strawberry!.md",
     "README.md",
     "readme.md.md"
