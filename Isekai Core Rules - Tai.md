@@ -1,8 +1,7 @@
 # Reborn in Another World
-_placeholder flavor_
 
-## Introduction
-Placeholder intro
+## Handmade painstakingly for: Tai
+Here's the rules for your reference. Follow along where you can, and try not to panic, I promise I'll explain and go super slowly. I promise it's not super complicated when you start playing. 
 
 ## Combat System
 The combat system for the Isekai Realm is a light, fluffy mixture of traditional TTRPG and Trading Card Game(TCG) mechanics. This system is both card based and turn based. Cards are used to represent what options a Character can take on any given turn, while their character sheets represents the character itself.
@@ -64,64 +63,7 @@ Proceed to end your turn. Ocasionally special skills can be activated during thi
 
 
 ## Classes
-Below is the list of classes. and their respective skills. Try different Main and Sub Class pairings to form your own unique strategy!
-
-### Midnight Blade
-__Class Suit:__ Empathy(Ramune)
-__**Class Goal:**__ 
-Create a big difference between yours and your opponent's hand. Then turn your card deficit against your opponent to inflict massive damage!
-
-__**Skills:**__
-- **Dark Deal:** (Standard Action)[Opponent draws 2 cards] Gain 1 HP.
-- **Blood Pact:** (Standard Action)[Discard 1 card] Opponent loses 2 HP.
-- **Envy:** (Standard Action)[-_If your hand is lower than your opponents_-] Inflict HP to Opponent equal to the difference between your hands.
-
-__**Ultimate Class Skill:**__ 
-- **Lunar Obsession:**(Standard Action)[Give your opponent every card in your hand] Inflict 1 HP for every card they hold.
-
-
-### Avatar Blade
-__Class Suit:__ Charm(Milk)
-__**Class Goal:**__ 
-Use field cards to access a larger than normal pool of abilities. With the right field card, your skills hold the key for a variety of situations!
-
-__**Skills:**__
-**Neutral Form** 
-- **Primal Siphon:** (Free Action)Take the top card of the Field Deck and put it face up on the field.
-- **Form Change:** (Free Action) Choose any card that's face up on the Table. For as long as this card remains face up on the Table, assume one of the below Forms that matches the chosen Card's Suit.
-
-**Aqua Form:** [_-face up "Empathy" Card on the field-_]
-- **Aqua Pulse:** (Standard Action)[Discard 3 cards from the top of your Player Deck] Recover 2 HP to any party member(s).
-
-**Pyro Form:** [_-face up "Charm" Card on the field-_]
-- **Ember Slash:** (Standard Action)[Discard 1 "Charm" Card from your hand]. For the rest of this turn, your successful attacks deal x2 damage.
-
-**Gale Form:** [_-face up "Knowledge" Card on the field-_]
-- **Counter Slash:** (Quick Action) [_-If your opponent has just inflicted damage to you-_ & Discard 1 "Knowledge" Card from your hand] Reduce battle damage to 0, then you may Counter Attack.
-
-**Terra Form** [_-face up "Determination" Card on the field-_]
-- **Stoneskin:** (Free Action) Place 1 "Determination" Card from your hand face up in front of you or your Party Members. That person gains the following effect: (Quick Action)[_-When you take damage-_ & Discard 1 face up "Determination" Card you control] Reduce damage inflicted to you for the rest of the turn by 2
-
-__**Ultimate Class Skill:**__ 
-- **Aqua Aura:** (Standard Action)[_-Aqua Form-_ & Remove the current Field Card & Cut your Player Deck in half(if you have only 1 card, discard it)] Recover 5 HP to all party members. If any have Died, Raise them.
-- **Infernal Assault:** (Standard Action)[_-Pyro Form-_ & Remove the current field card & Discard 2 "Charm" cards from your hand.] For the rest of this turn your successful attacks will deal piercing damage x2.
-- **Dash Stun:** (Quick Action)[_-Gale Form-_ & When your opponent does any of the following: Draws a card, Activates a Skill, or Makes an attack & Remove the current Field Card] Stun the action and inflict 2 damage to your opponent.
-- **Steelskin:** (Standard Action)[_-Terra Form-_ & Remove the current Field Card & Discard 1 Special Card ]  That Player takes 0 damage from Standard Attacks until the end of your 3rd turn after you activated this ability. 
-
-### Shroud Bow
-__Class Suit:__ Determination(Coffee)
-__**Class Goal:**__
-Heal and Support your party members while also striking your opponents from afar.
-
-__**Skills:**__
-- **Camouflage:**(Free Action) Place 1 "Determination" Card from your hand to the field. As long as it remains there, you gain this effect: (Quick Action)[_-If you take damage-_ & Remove 1 "Determination" Card from the field] Choose 1 other party member, that person takes the damage you would have taken.
--  **Herbal Remedy:** (Standard Action)[Discard 2 cards from the top of your Player Deck] Recover 1 HP to any party member.
--  **Survival Instinct:** (Free Action) Place 1 "Determination" Card from your hand in front of another player. As long as it remains there, that player gains this effect: (Quick Action)[_-If your HP reaches 0-_ & Remove 1 face-up "Determination" Card you control] Gain 1 HP. You cannot take any damage until after your next turn.
-
-__**Ultimate Class Skill:**__ 
-- **Miracle Root:** (Standard Action)[Discard 1 Special Card and 1 "Determination" Card OR Discard 1 Special "Determination" Card] Recover a total of 4 HP to any Player(s). If they're Dead, Raise them.
-
-### Scavenger Bow
+These are the classes Tai has access to so far! Your class has special rules regarding pets.
 
 ### Primal Mage
 __Class Suit:__ Charm (Milk)
@@ -152,40 +94,3 @@ __**Pet List:**__
 **Terra Pet** [_-Determination Card in Pet Zone-_] 8 HP / 2 Determination / 0 -
 - **Terra Ability:** (Passive Action) The owner of this pet cannot be attacked.
 
-
-### Hex Mage
-
-
-## Enemy Classes
-
-### Serene Art
-**Cielle:** 90 HP / 1 Charm / 0 in all other stats
-
-__Class Suit:__ Charm(Milk)
-__**Class Goal:**__ 
-Spend your turns charging your energy. Unleash all at once for a deadly attack that's sure to wipe everyone out!
-
-__**Skills:**__
-- **Pascifist:** (Passive Action) You cannot make Standard Attacks.
-- **Meditate:** (Free Action)Take the top card of the Field Deck and place it face down in front of you.
-- **Gather Chi:** (Standard Action)[Discard 3 cards] Gain 1 Charm
-- **Calm Mind:** (Standard Action)[Discard 1 Special card] Recover 10 HP
-
-__**Ultimate Class Skill:**__ 
-- **Chain Strike:**(Standard Action)[_-Control at least 3 face down cards-_] Add all of the numbers listed on the cards together. You may make that many attacks in a row.
-
-### Fate Seer
-**Sharna** 75 HP / 4 Empathy / 1 in all other stats
-
-__Class Suit:__ Empathy(Ramune)
-__**Class Goal**__
-Build spreads using cards played on the table by you and your opponent! Different spreads unlock powerful skills!
-
-__**Skills:**__
-**Destiny Draw:** (Standard Action)[Discard 2 Cards] Take the top card of the Field Deck and place it face up in front of you
-**Temperance:** (Standard Action)[_-4 Cards of the same suit anywhere face up on the field-_] Multiply your Party's current Stat value x2 that matches the Suit made in this spread.
-**Empress:** (Standard Action)[_-2 pairs of 2 Cards of the same suit anywhere on the field-_ & Remove all Field Cards you control] Your Party Members each draw 5 cards.
-
-__Ultimate Class Skill:__
-__Celtic Knot:__ (Standard Action)[_-4 Cards of different Suits and 1 Special Card anywhere face up -_ & Discard all cards you control] Deal 10 HP damage to all opponents. 
-__Lover's Knot:__ (Standard Action)[_-4 Cards of different Suits and 1 Special Card anywhere face up-_ & Discard all cards you control] Recover 25 HP to all Party Members 
