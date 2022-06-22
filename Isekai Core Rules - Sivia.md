@@ -1,7 +1,12 @@
 # Reborn in Another World
 
-## Handmade for the lovely: Sivia
-Here's the rules for your reference. Follow along where you can, and try not to panic, I promise I'll explain and go super slowly. I promise it's not super complicated when you start playing. 
+## Core Rules v1.2 + Sivia's Classes
+__Change Notes: __
+- Created Choice Phase and rearranged phases.
+- Passive actions cannot be stunned and do not cost your turn's skill point
+- Starting hands consist of 5 cards instead of 7
+- Shroud Bow: Replaced skill "Camoflage" with "Hunter's Trap"
+- Shroud Bow: Increased healing potentcy on skills: "Herbal Remedy", "Miracle Root"
 
 ## Combat System
 The combat system for the Isekai Realm is a light, fluffy mixture of traditional TTRPG and Trading Card Game(TCG) mechanics. This system is both card based and turn based. Cards are used to represent what options a Character can take on any given turn, while their character sheets represents the character itself.
@@ -22,16 +27,7 @@ Each player is given a total of 6 Combat Skills:
 __**Pre-Combat**__
 - Combat in the Isekai Realm begins with a "Soft Check" of the Headmaster's choosing. Each player rolls a 6 sided dice with modifiers included to determine the turn order. If two or more players get the same role, then re-roll. If exactly two players get the same role, then flip a coin to see which goes first.
 - At this time, during Pre-Combat, the Headmaster can place special rules and restrictions on combat. This should be done sparingly, and should only be done to mechanically represent the story narrative. A typical example would include certain abilities and actions costing more or less.
-- Once turn order has been decided, everyone at the table will draw 7 cards from the Field Deck. Once this has been done Combat can begin.
-
-__**Draw Phase**__
-The Turn Player starts by drawing a card from the Field Deck.
-
-__**Extra Draw Phase**__
-The Turn Player can draw a card from their own Player Deck. As a cost for doing this, they must first discard a card from their hand. Also be mindful that your Player Deck is: 
-- Limited to 15 Cards max
-- Is a Limited resource and is difficult to refill.
-- Unless the Headmaster chooses, hands and Player Deck counts remain between combat encounters.
+- Once turn order has been decided, everyone at the table will draw 5 cards from the Field Deck. Once this has been done Combat can begin.
 
 __**Exchange Phase**__
 At this time, if your hand is lacking, you may ask your fellow Party Members for assistance. 1 Card can be exchanged from the Turn Player's hand for another in another Player's hand. You can only do 1 Exchange per turn. Please follow the below guidelines for doing exchanges:
@@ -39,18 +35,25 @@ At this time, if your hand is lacking, you may ask your fellow Party Members for
 - No Player should feel obligated to trade if they don't want to or it doesn't benefit them.
 - Don't reveal your hand to another player while doing an exchange.
 
-__**Skill Phase**__
-At this time you may activate 1 availible Skill on your character sheet. Skills each have the following parameters:
-
-- _Name_ - The name of the skill. Represented in bold with a colon. For example, "**Dark Deal:**"
-- _Action Type_ - The Action Type Represents when this skill can be used. Action Types are surrounded in Parenthesis. For example, (Standard Action) There are several types of actions:
-	1)  (Standard Action) | These are activated normally by paying the cost during your Skill Phase and following the instructions on the Skill. 
-	2)  (Passive Action) | These Skills are activated automatically and are required. Follow the instructions on the Skill for more info.
-	3)  (Free Action) | These Skills have no activation cost and can be activated like normal during the Skill Phase.
-	4)  (Quick Action) | These Skills can be activated outside of the Skill Phase, and are generally a reaction to something that happens outside of your turn. Follow the instructions carefully on the Skill.
-- _Activation Cost_ - Represented in brackets. You must pay this cost before the Skill can be activated. For example, [discard 1 card from your hand] 
-- _Activation Condition_ - Activation conditions are special conditions that must be present, and are considered part of the Activation Cost. They are written inside of the Activation Cost square brackets, and are italicized and surrounded by dashes. For example [ _-Your hand must be lower than your Opponent's-_]
-- Effect - this is the Skill effect. Written in plain text. Follow the instructions carefully.
+__**Choice Phase**__  (Choose from *one* of the following Actions during this Phase)
+	- __**Field Deck Draw**__
+			The Turn Player starts by drawing a card from the Field Deck.
+	- __**Player Deck Draw**__
+			The Turn Player can draw a card from their own Player Deck. As a cost for doing this, they must first discard a card from their hand. Also be mindful that your Player Deck is: 
+			- Limited to 15 Cards max
+			- Is a Limited resource and is difficult to refill.
+			- Unless the Headmaster chooses, hands and Player Deck counts remain between combat encounters.
+	- __**Skill Activation**__
+			At this time you may activate 1 Skill on your character sheet. Skills each have the following parameters:
+		- _Name_ - The name of the skill. Represented in bold with a colon. For example, "**Dark Deal:**"
+		- _Action Type_ - The Action Type Represents when this skill can be used. Action Types are surrounded in Parenthesis. For example, (Standard Action) There are several types of actions:
+			1)  (Standard Action) | These are activated normally by paying the cost during your Skill Phase and following the instructions on the Skill. 
+			2)  (Passive Action) | These Skills are activated automatically and are required. These skills do not take a skill point to activate, and can be activated alongside other skills. Make sure to follow the instructions on the Skill for more info. Note: Passive Actions cannot be "Stunned"!
+			3)  (Free Action) | These Skills have no activation cost and can be activated like normal during the Skill Phase.
+			4)  (Quick Action) | These Skills can be activated outside of the Skill Phase, and are generally a reaction to something that happens outside of your turn. Please note that Quick Actions do take up your Skill Point for the turn. So on any given turn you can only active 1 Quick Action. Follow the instructions carefully on the Skill.
+		- _Activation Cost_ - Represented in brackets. You must pay this cost before the Skill can be activated. For example, [discard 1 card from your hand] 
+		- _Activation Condition_ - Activation conditions are special conditions that must be present, and are considered part of the Activation Cost. They are written inside of the Activation Cost square brackets, and are italicized and surrounded by dashes. For example [ _-Your hand must be lower than your Opponent's-_]
+		- Effect - this is the Skill effect. Written in plain text. Follow the instructions carefully.
 
 __**Attack Phase**__
 If you've not dealt damage to your opponent by this point, you may enter the Attack Phase. Follow the below steps to perform an attack.
@@ -63,7 +66,7 @@ Proceed to end your turn. Ocasionally special skills can be activated during thi
 
 
 ## Classes
-These are the classes Sivia has access to so far! 
+Below is the list of classes that Sivia knows:
 
 ### Shroud Bow
 __Class Suit:__ Determination(Coffee)
@@ -71,10 +74,13 @@ __**Class Goal:**__
 Heal and Support your party members while also striking your opponents from afar.
 
 __**Skills:**__
-- **Camouflage:**(Free Action) Place 1 "Determination" Card from your hand to the field. As long as it remains there, you gain this effect: (Quick Action)[_-If you take damage-_ & Remove 1 "Determination" Card from the field] Choose 1 other party member, that person takes the damage you would have taken.
--  **Herbal Remedy:** (Standard Action)[Discard 2 cards from the top of your Player Deck] Recover 1 HP to any party member.
+- **Hunter's Trap:**(Free Action) Place 1 "Determination" Card from your hand face up in front of any Enemy. You can target any given Enemy with one of the following abilities based on the number of "Determination" Cards in front of them: 
+	- 1: (Quick Action)[_-Enemy's Turn-_ & Discard 1 Card from the top of your Player Deck] Inflict 2 HP damage to your Opponent.
+	- 2: (Standard Action)[Discard 1 Card from the top of your Player Deck] Inflict 4 HP damage to your Opponent  
+	- 3: (Standard Action)[Discard 2 Cards from the top of your Player Deck & 1 Special Card] Inflict 10 points of HP Damage to your Opponent
+-  **Herbal Remedy:** (Standard Action)[Discard 2 cards from the top of your Player Deck] Recover 4 HP to any party member.
 -  **Survival Instinct:** (Free Action) Place 1 "Determination" Card from your hand in front of another player. As long as it remains there, that player gains this effect: (Quick Action)[_-If your HP reaches 0-_ & Remove 1 face-up "Determination" Card you control] Gain 1 HP. You cannot take any damage until after your next turn.
 
 __**Ultimate Class Skill:**__ 
-- **Miracle Root:** (Standard Action)[Discard 1 Special Card and 1 "Determination" Card OR Discard 1 Special "Determination" Card] Recover a total of 4 HP to any Player(s). If they're Dead, Raise them.
+- **Miracle Root:** (Standard Action)[Discard 1 Special Card and 1 "Determination" Card OR Discard 1 Special "Determination" Card] Recover a total of 10 HP to any Player(s). If they're Dead, Raise them.
 

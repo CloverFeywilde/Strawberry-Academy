@@ -1,7 +1,11 @@
 # Reborn in Another World
 
-## Handmade painstakingly for: Tai
-Here's the rules for your reference. Follow along where you can, and try not to panic, I promise I'll explain and go super slowly. I promise it's not super complicated when you start playing. 
+## Core Rules v1.2 + Tai's Classes
+__Change Notes: __
+- Created Choice Phase and rearranged phases.
+- Passive actions cannot be stunned and do not cost your turn's skill point
+- Starting hands consist of 5 cards instead of 7
+- Increased the healing potency of Aqua Ability on Primal Mage from 2 to 4
 
 ## Combat System
 The combat system for the Isekai Realm is a light, fluffy mixture of traditional TTRPG and Trading Card Game(TCG) mechanics. This system is both card based and turn based. Cards are used to represent what options a Character can take on any given turn, while their character sheets represents the character itself.
@@ -22,16 +26,7 @@ Each player is given a total of 6 Combat Skills:
 __**Pre-Combat**__
 - Combat in the Isekai Realm begins with a "Soft Check" of the Headmaster's choosing. Each player rolls a 6 sided dice with modifiers included to determine the turn order. If two or more players get the same role, then re-roll. If exactly two players get the same role, then flip a coin to see which goes first.
 - At this time, during Pre-Combat, the Headmaster can place special rules and restrictions on combat. This should be done sparingly, and should only be done to mechanically represent the story narrative. A typical example would include certain abilities and actions costing more or less.
-- Once turn order has been decided, everyone at the table will draw 7 cards from the Field Deck. Once this has been done Combat can begin.
-
-__**Draw Phase**__
-The Turn Player starts by drawing a card from the Field Deck.
-
-__**Extra Draw Phase**__
-The Turn Player can draw a card from their own Player Deck. As a cost for doing this, they must first discard a card from their hand. Also be mindful that your Player Deck is: 
-- Limited to 15 Cards max
-- Is a Limited resource and is difficult to refill.
-- Unless the Headmaster chooses, hands and Player Deck counts remain between combat encounters.
+- Once turn order has been decided, everyone at the table will draw 5 cards from the Field Deck. Once this has been done Combat can begin.
 
 __**Exchange Phase**__
 At this time, if your hand is lacking, you may ask your fellow Party Members for assistance. 1 Card can be exchanged from the Turn Player's hand for another in another Player's hand. You can only do 1 Exchange per turn. Please follow the below guidelines for doing exchanges:
@@ -39,18 +34,25 @@ At this time, if your hand is lacking, you may ask your fellow Party Members for
 - No Player should feel obligated to trade if they don't want to or it doesn't benefit them.
 - Don't reveal your hand to another player while doing an exchange.
 
-__**Skill Phase**__
-At this time you may activate 1 availible Skill on your character sheet. Skills each have the following parameters:
-
-- _Name_ - The name of the skill. Represented in bold with a colon. For example, "**Dark Deal:**"
-- _Action Type_ - The Action Type Represents when this skill can be used. Action Types are surrounded in Parenthesis. For example, (Standard Action) There are several types of actions:
-	1)  (Standard Action) | These are activated normally by paying the cost during your Skill Phase and following the instructions on the Skill. 
-	2)  (Passive Action) | These Skills are activated automatically and are required. Follow the instructions on the Skill for more info.
-	3)  (Free Action) | These Skills have no activation cost and can be activated like normal during the Skill Phase.
-	4)  (Quick Action) | These Skills can be activated outside of the Skill Phase, and are generally a reaction to something that happens outside of your turn. Follow the instructions carefully on the Skill.
-- _Activation Cost_ - Represented in brackets. You must pay this cost before the Skill can be activated. For example, [discard 1 card from your hand] 
-- _Activation Condition_ - Activation conditions are special conditions that must be present, and are considered part of the Activation Cost. They are written inside of the Activation Cost square brackets, and are italicized and surrounded by dashes. For example [ _-Your hand must be lower than your Opponent's-_]
-- Effect - this is the Skill effect. Written in plain text. Follow the instructions carefully.
+__**Choice Phase**__  (Choose from *one* of the following Actions during this Phase)
+	- __**Field Deck Draw**__
+			The Turn Player starts by drawing a card from the Field Deck.
+	- __**Player Deck Draw**__
+			The Turn Player can draw a card from their own Player Deck. As a cost for doing this, they must first discard a card from their hand. Also be mindful that your Player Deck is: 
+			- Limited to 15 Cards max
+			- Is a Limited resource and is difficult to refill.
+			- Unless the Headmaster chooses, hands and Player Deck counts remain between combat encounters.
+	- __**Skill Activation**__
+			At this time you may activate 1 Skill on your character sheet. Skills each have the following parameters:
+		- _Name_ - The name of the skill. Represented in bold with a colon. For example, "**Dark Deal:**"
+		- _Action Type_ - The Action Type Represents when this skill can be used. Action Types are surrounded in Parenthesis. For example, (Standard Action) There are several types of actions:
+			1)  (Standard Action) | These are activated normally by paying the cost during your Skill Phase and following the instructions on the Skill. 
+			2)  (Passive Action) | These Skills are activated automatically and are required. These skills do not take a skill point to activate, and can be activated alongside other skills. Make sure to follow the instructions on the Skill for more info. Note: Passive Actions cannot be "Stunned"!
+			3)  (Free Action) | These Skills have no activation cost and can be activated like normal during the Skill Phase.
+			4)  (Quick Action) | These Skills can be activated outside of the Skill Phase, and are generally a reaction to something that happens outside of your turn. Please note that Quick Actions do take up your Skill Point for the turn. So on any given turn you can only active 1 Quick Action. Follow the instructions carefully on the Skill.
+		- _Activation Cost_ - Represented in brackets. You must pay this cost before the Skill can be activated. For example, [discard 1 card from your hand] 
+		- _Activation Condition_ - Activation conditions are special conditions that must be present, and are considered part of the Activation Cost. They are written inside of the Activation Cost square brackets, and are italicized and surrounded by dashes. For example [ _-Your hand must be lower than your Opponent's-_]
+		- Effect - this is the Skill effect. Written in plain text. Follow the instructions carefully.
 
 __**Attack Phase**__
 If you've not dealt damage to your opponent by this point, you may enter the Attack Phase. Follow the below steps to perform an attack.
@@ -63,7 +65,7 @@ Proceed to end your turn. Ocasionally special skills can be activated during thi
 
 
 ## Classes
-These are the classes Tai has access to so far! Your class has special rules regarding pets.
+Below is the list of classes that Tai knows:
 
 ### Primal Mage
 __Class Suit:__ Charm (Milk)
@@ -92,5 +94,4 @@ __**Pet List:**__
 - **Gale Ability:** (Quick Action)[_-If your opponent activates any Skills or Attacks-_ & Discard 2 Cards from your Pet's Soul OR discard 1 "Knowledge" Card from your Pet's Soul] Stun the Skill or Attack.
 
 **Terra Pet** [_-Determination Card in Pet Zone-_] 8 HP / 2 Determination / 0 -
-- **Terra Ability:** (Passive Action) The owner of this pet cannot be attacked.
-
+- **Terra Ability:** (Passive Action) The owner of this pet cannot be selected for an attack or get targeted with Skills.
