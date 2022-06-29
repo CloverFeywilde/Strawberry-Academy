@@ -273,3 +273,71 @@ __**Skills:**__
 	- Your HP drops to 5, You cannot Recover HP until after your next turn
 	- Discard your entire hand, You cannot draw on your next turn.
 	- All cards on the table that you control get removed, You cannot activate Skills next turn.
+
+
+### Automated Aquatic Angel (Ax3)
+**Ayami Prime** 90 HP ? Charm / ? Empathy / ? Determination / ? Knowledge
+
+__**Class Goal**__
+Switch between 3 Models, each with it's own stats, strengths and weaknesses. Catch your opponents off guard with your form changes, and penalize them by placing cards in front of them. These cards play to your advange, adding extra effects to your attacks and abilities to your kit. (Automated Aquatic Armor)
+
+__**Skills:**__
+-**Limiter Chip:** (Passive Action) No matter the suit, Standard Attacks deal 2 Damage plus any additional modifiers.
+-**Mirror Split:** (Quick Action)[_-Opponent's tries to attack, deal damage, or stun any of your abilities-_ & Discard 1 special card from your hand] Before the Opponent's action begins: Immediately switch forms, then resume their triggered action.
+
+- **Ax3 - Type A:**  Suit: Empathy / 30 HP / 6 Empathy / 0~
+	- **CounterStrike-A:**(Passive Action)[_-Any Skills that include HP damage are activated-_] Stun the Skill, then deal 4 HP damage to the entire party, then place 1 card from the Player's hand that used the Skill face down in front of them.
+	- **Totsugeki:**(Quick Action)[_-Opponent Draws a Card-_ & Discard 1 card] Opponent must put 1 card from their hand face down in front of them. Then that player take 6 HP damage.
+
+- **Ax3 - Type K:**  Suit: Charm / 30 HP / 6 Charm / 0~
+	- **CounterStrike-K:**(Passive Action)[_-Any Skills that include HP Recovery or Stun are activated-_] Stun the Skill, then deal 4 HP damage to the entire party, then place 1 card from the Player's hand that used the Skill face down in front of them.
+	- **Shinryu's Fang:**(Passive Action)[_-You declare a standard attack against an opponent that has face down card(s)-_] Your standard attacks accumulate the below effects for each face down card that your target opponent has:
+		- 1: x3 Damage for successful attacks
+		- 2: Attacks cannot be blocked
+		- 3: You may declare 3 attacks in a row this turn
+	
+- **Ax3 - Type S:**  Suit: Knowledge / 30 HP / 6 Knowledge / 0~
+	- **CounterStrike-S:**(Passive Action)[_-Any Standard Attacks declared or any Skills are activated that do not include HP Damage-_] Stun the Skill, then deal 4 HP damage to the entire party, then place 1 card from the Player's hand that used the Skill face down in front of them.
+	- **Shinryu's Scales:**(Passive Action)[_-You take damage-_] Accumulate the following effects depending on the damage you're about to take.
+		- 4 or less: Opponent places 1 face down card in front of them
+		- 8 or less: Each player places 1 card face down in front of them
+		- greater than 8: Split the damage you're about to take 50/50 between you and your opponent.
+
+
+**Ultimate Class Skill:**
+- **Shock Artillery Type-A:**(Standard Action) [_-Ax3 Type A-_& Discard 1 Empathy Card]Each Opponent must draw a card from the Field Deck and put it in front of themselves face down.
+- **Shock Artillery Type-K:**(Standard Action)[_-Ax3 Type K-_ & Discard 1 Charm Card] Clear all face down cards off the field. You can make an extra standard attack for each card.
+- **Shock Artillery Type-S:**(Standard Action)[_-Ax3 Type S-_ & Discard 1 Knowledge card] All opponents takes 2 HP damage for each face down card they control
+
+
+
+### Special Skills
+- **Call Alzena:**  
+	- **Lonely Crescent:** (Standard Action)[_-4+ face down cards-_] Deal 2 HP damage to everyone in your Opponents Party for every face down card. Then flip all face down cards.
+	
+- **Call Ciel:**
+	- **Chain Strike:**(Standard Action)[_-Control at least 3 face down cards in total with your other Party Members-_] Flip all face down cards face up. Add all of the numbers listed on the cards together. You and your party members may each take turns making attacks up to that number.
+
+- **Call Sharna:**
+	- **Empress:** (Standard Action)[_-2 pairs of 2 Cards of the same suit anywhere on the field OR 1 Card of each suit face up on the field-_ ] Every Party member draws 5 cards OR Recover All HP to all Party Members
+
+- **Scan:**(Free Action) Learn Remaining HP, Stats, and 1 unknown ability of the current target. 
+
+
+
+
+### Storyteller
+**Cat Fuyusaka** -- HP / ?~
+
+__**Class Goal**__
+Come in clutch and assist the three travelers of legend in their final trial.
+
+__**Skills:**__
+- **Tabula Rasa:** (Passive Action)[_-Full Wipe-_]Raise Party with Full HP.
+- **Phae Embrace:**(Passive Action)[_-at least 1 full wipe has happened & End Phase of any Player's Turn-_] Gain 1 HP and draw 2 Cards.
+**Phantasia's Blessing:**(Passive Action)[_-At least 4 total deaths have happened-_] Cat will enter the battle as fully playable character and assume the last spot in the turn order.
+
+__**Ultimate Class Skills:__
+- **Sidhee's Light:**(Free Action) Opponent takes 15 HP damage.
+- **Temporal Suspension:**(Free Action) Until your next turn, Your Opponent cannot use any 'CounterStrike' abilities, or change "Ax3" Models.
+	
